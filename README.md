@@ -3,6 +3,8 @@
 
 # closestmatch :page_with_curl:
 
+# For for go modules, tag version
+
 <a href="#"><img src="https://img.shields.io/badge/version-2.1.0-brightgreen.svg?style=flat-square" alt="Version"></a>
 <a href="https://travis-ci.org/schollz/closestmatch"><img src="https://img.shields.io/travis/schollz/closestmatch.svg?style=flat-square" alt="Build Status"></a>
 <a href="http://gocover.io/github.com/schollz/closestmatch"><img src="https://img.shields.io/badge/coverage-98%25-brightgreen.svg?style=flat-square" alt="Code Coverage"></a>
